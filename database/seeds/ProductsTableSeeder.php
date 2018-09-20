@@ -129,19 +129,6 @@ class ProductsTableSeeder extends Seeder
                 'price' => '1299',
                 'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',
             ],
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
             [
                 'title' => 'product Brand Model 4586 K72J',
                 'category_id' => '4',
@@ -196,14 +183,6 @@ class ProductsTableSeeder extends Seeder
                 'price' => '4799',
                 'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',
             ],
-            
-            
-            
-            
-            
-            
-            
-            
             [
                 'title' => 'product Brand Model 4586 K72J',
                 'category_id' => '5',
@@ -258,11 +237,6 @@ class ProductsTableSeeder extends Seeder
                 'price' => '4699',
                 'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',
             ],
-            
-            
-            
-            
-            
             [
                 'title' => 'product Brand Model 4586 K72J',
                 'category_id' => '6',
@@ -308,10 +282,6 @@ class ProductsTableSeeder extends Seeder
                 'price' => '4699',
                 'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',
             ],
-            
-            
-            
-            
             [
                 'title' => 'product Brand Model 4586 K72J',
                 'category_id' => '8',
@@ -402,11 +372,6 @@ class ProductsTableSeeder extends Seeder
                 'price' => '4699',
                 'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',
             ],
-            
-            
-            
-            
-            
             [
                 'title' => 'product Brand Model 4586 K72J',
                 'category_id' => '9',
@@ -461,10 +426,6 @@ class ProductsTableSeeder extends Seeder
                 'price' => '4699',
                 'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',
             ],
-            
-            
-            
-            
             [
                 'title' => 'product Brand Model 4586 K72J',
                 'category_id' => '10',
@@ -537,10 +498,6 @@ class ProductsTableSeeder extends Seeder
                 'price' => '4699',
                 'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',
             ],
-            
-            
-            
-            
             [
                 'title' => 'product Brand Model 4586 K72J',
                 'category_id' => '11',
